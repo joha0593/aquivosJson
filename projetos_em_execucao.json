@@ -1,0 +1,58 @@
+[
+    {
+        "nome_projeto": "Projeto C",
+        "custo": 20000.0,
+        "data_inicio": "2020-03-20",
+        "data_conclusao": "2020-08-10",
+        "responsavel": "Pedro Santos"
+    },
+    {
+        "nome_projeto": "Projeto F",
+        "custo": 22000.0,
+        "data_inicio": "2021-03-10",
+        "data_conclusao": "2021-08-25",
+        "responsavel": "Pedro Santos"
+    },
+    {
+        "nome_projeto": "Projeto G",
+        "custo": 25000.0,
+        "data_inicio": "2021-04-20",
+        "data_conclusao": "2021-10-30",
+        "responsavel": "Maria Oliveira"
+    },
+    {
+        "nome_projeto": "Projeto I",
+        "custo": 21000.0,
+        "data_inicio": "2022-03-20",
+        "data_conclusao": "2022-09-10",
+        "responsavel": "Jo\u00e3o Silva"
+    },
+    {
+        "nome_projeto": "Projeto K",
+        "custo": 23000.0,
+        "data_inicio": "2023-01-10",
+        "data_conclusao": "2023-06-20",
+        "responsavel": "Pedro Santos"
+    },
+    {
+        "nome_projeto": "Projeto N",
+        "custo": 24000.0,
+        "data_inicio": "2024-01-05",
+        "data_conclusao": "2024-06-15",
+        "responsavel": "Maria Oliveira"
+    },
+    {
+        "nome_projeto": "Projeto R",
+        "custo": 32000.0,
+        "data_inicio": "2024-07-20",
+        "data_conclusao": "2024-12-30",
+        "responsavel": "Maria Oliveira"
+    },
+    {
+        "nome_projeto": "Projeto S",
+        "custo": 29000.0,
+        "data_inicio": "2024-09-25",
+        "data_conclusao": "2025-02-15",
+        "responsavel": "Pedro Santos"
+    }
+]
